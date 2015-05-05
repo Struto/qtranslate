@@ -1,0 +1,12 @@
+# UNWANTED FILES
+
+.project
+*.log
+.htaccess
+.DS_Store	# Mac OS X hidden files
+.*.sw?		# Vim swap files
+/bin/		# Bundler binstubs
+
+
+# OTHER UNWATED SHIZZNITS
+
