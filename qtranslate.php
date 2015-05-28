@@ -3,7 +3,7 @@
 Plugin Name: qTranslate
 Plugin URI: https://github.com/Struto/qtranslate
 Description: Adds userfriendly multilingual content support into Wordpress. For Problems visit the <a href="http://www.qianqin.de/qtranslate/forum/">Support Forum</a>.
-Version: 2.5.39-fixed
+Version: 2.5.40-fixed
 Author: Qian Qin (fixes by: Archie Makuwa)
 Author URI: http://www.aatsol.co.za/
 Tags: multilingual, multi, language, admin, tinymce, qTranslate, Polyglot, bilingual, widget, switcher, professional, human, translation, service
